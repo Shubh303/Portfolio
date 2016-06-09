@@ -9,7 +9,7 @@ body {
 	height: 40px;
 	width: 100%;
 	color: white;
-	padding-top: 20px;
+	padding-top: 10px;
 }
 
 
@@ -25,4 +25,9 @@ body {
 
 #green {
 	color: green;
+}
+
+
+#footerText {
+	margin-bottom: 10px;
 }
